@@ -4,6 +4,28 @@
     "label": "Ph.D. Candidate",
     "email": "wlaud1001@snu.ac.kr",
     "url": "https://wlaud1001.github.io/",
-
-  }
+  },
+  "education": [
+    {
+      "institution": "Seoul National University",
+      "location": "Seoul, South Korea",
+      "url": "https://www.snu.ac.kr/",
+      "area": "Department of Intelligence and Information",
+      "studyType": "Ph.D.",
+      "startDate": "21-03",
+      "endDate": "Present",
+      "score": "10",
+      "courses": ["Expected Graduation: 2026.02"]
+    },
+    {
+      "institution": "Sungkyunkwan University",
+      "location": "Suwon, South Korea",
+      "url": "https://www.skku.edu/",
+      "area": "Mathematics & Computer Science and Engineering",
+      "studyType": "B.S.",
+      "startDate": "16-03",
+      "endDate": "21.02",
+      "score": "10",
+    }
+  ],
 }
