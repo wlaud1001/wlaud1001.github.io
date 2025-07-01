@@ -32,5 +32,15 @@ My current research interests include:
   <li>Real image editing</li>
 </ul>
 
+<a href="https://github.com/wlaud1001" target="_blank">
+  <i class="fab fa-github" style="margin-right: 6px;"></i>GitHub
+</a> /
+<a href="https://scholar.google.com/citations?user=FmeJA1sAAAAJ&hl=en" target="_blank">
+  <i class="ai ai-google-scholar" style="margin-right: 6px;"></i>Google Scholar
+</a> /
+<a href="www.linkedin.com/in/jimyeong-kim" target="_blank">
+  <i class="fab fa-linkedin" style="margin-right: 6px;"></i>LinkedIn
+</a>
+
 Please feel free to reach out!
 
