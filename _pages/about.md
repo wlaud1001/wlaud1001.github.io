@@ -6,7 +6,7 @@ subtitle: "wlaud1001 [AT] snu.ac.kr"
 
 profile:
   align: right
-  image: profile_1.jpg
+  image: profile_1.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
