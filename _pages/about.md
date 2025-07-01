@@ -38,7 +38,7 @@ My current research interests include:
 <a href="https://scholar.google.com/citations?user=FmeJA1sAAAAJ&hl=en" target="_blank">
   <i class="ai ai-google-scholar" style="margin-right: 6px;"></i>Google Scholar
 </a> /
-<a href="www.linkedin.com/in/jimyeong-kim" target="_blank">
+<a href="https://www.linkedin.com/in/jimyeong-kim" target="_blank">
   <i class="fab fa-linkedin" style="margin-right: 6px;"></i>LinkedIn
 </a>
 
