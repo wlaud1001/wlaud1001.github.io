@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-02-27
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+['Selectively informative description can reduce undesired embedding entanglements in text-to-image personalization'](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_Selectively_Informative_Description_can_Reduce_Undesired_Embedding_Entanglements_in_Text-to-Image_CVPR_2024_paper.html) is accepted at CVPR'24.
