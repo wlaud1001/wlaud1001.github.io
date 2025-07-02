@@ -117,8 +117,11 @@
   <div class="container is-max-desktop">
     <div class="hero-body">
       <img id="teaser" src="static/images/main_figure.png"/>
-      <h2 class="subtitle has-text-centered">
-        <b>ReFlex</b> is training-free editing method for MM-DiT based flow model like FLUX.
+      <h2 class="subtitle">
+        Given a source image and a target prompt, <b>ReFlex</b> can preserve core information of the source image, 
+        including structure and background, while adapting high-level attributes in accordance with the target prompt. 
+        <b>ReFlex</b> is training-free, does not require a user-specified mask, 
+        and can be used even in the absence of a source prompt as demonstrated in the image translation examples.
       </h2>
     </div>
   </div>
@@ -189,7 +192,7 @@
           <p>
             <b style="font-size:110%">Overview of our method, ReFlex: </b>
             <br>
-            <b>(a)</b> We extract <b>three key features</b>---I2T-CA, I2I-SA, and the residual feature---from a mid-step latent, 
+            <b>(a)</b> We extract <b>three key features</b>&mdash;I2T-CA, I2I-SA, and the residual feature&mdash;from a mid-step latent, 
             while the fully inverted latent serves as initial noise for target image generation.
             To enhance text alignment, we propose <b>two adaptation methods</b>, respectively for two attention maps, 
             <b>(b)</b> I2T-CA and <b>(c)</b> I2I-SA, whereas residual feature is injected without modification.
@@ -212,6 +215,15 @@
         <h2 class="title is-4">Comparisons</h2>
         <div class="row is-centered has-text-centered is-four-fifths">
           <img id="architecture" src="static/images/comparison_all.png"/>
+        </div>
+        <div class="content has-text-justified ">
+          <p>
+            Qualitative results show that <b>ReFlex</b> outperforms both FLUX-based and SD-based approaches in accurately following the target prompt. 
+            In the PIE-bench and Wild-TI2I-Real datasets, other models fail at key edits
+            &ndash;such as changing a heart to a circle or adjusting color details&ndash;
+            while our method makes precise modifications with high image quality and structure preservation. 
+            Additional comparisons and diverse examples are provided below.
+          </p>
         </div>
       </div>
     </div>
