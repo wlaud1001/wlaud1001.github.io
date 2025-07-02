@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-on-computable-numbers-with-an-application-to-the-entscheidungsproblem",
-    title: "On Computable Numbers, with an Application to the Entscheidungsproblem",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
